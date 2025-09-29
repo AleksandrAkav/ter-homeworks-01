@@ -8,6 +8,9 @@ _Задание 1_
 4. <img width="543" height="828" alt="image" src="https://github.com/user-attachments/assets/410f0d5f-8c2e-41dc-9ff0-93c3a994437f" />
 5. <img width="522" height="619" alt="image" src="https://github.com/user-attachments/assets/7c7ed857-ffe7-43e8-b0ed-ee65058047a9" />
 <img width="1079" height="433" alt="image" src="https://github.com/user-attachments/assets/f51ee4fd-83cd-423c-b042-be3e47eaa6bf" />
+6. Как и всякое автоподтверждение несет угрозу мгновенного применения изменений в конфигурацию, что может привести к сбоям конфигураций при автоматизированном применении (скриптами, например). Может быть удобным при ручном применении для ускорения деплоя, при уверенности, что изменения не нарушат конфигурацию.
+   <img width="1048" height="50" alt="image" src="https://github.com/user-attachments/assets/025210df-0ab4-49ac-a437-6e5054caf91d" />
+7. 
 
 
 
